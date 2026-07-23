@@ -1,1 +1,2 @@
-# Customer-Churn-Prediction
+# Customer Churn Prediction
+Portfolio-ready ML project.
